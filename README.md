@@ -68,6 +68,10 @@ This document outlines the workflow of two Python scripts:
 
 1. **Execute `data_processing.py`**:
    - Run this script to preprocess data and generate the required database files.
+   - Launch the Streamlit app using:
+     ```bash
+     streamlit run demo9.py
+     ``` 
 
 2. **Start the Streamlit Application (`demo9.py`)**:
    - Launch the Streamlit app using:
