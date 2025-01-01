@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+
+# Database files
+database/users.db
+
+# Logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ignore database files
+*.db
+
+#Ignore input files
+!input_dbs/*.db
+
+#Include output files
+!output_dbs/
+
+
